@@ -1,0 +1,15 @@
+C:\Users\Raj\Documents\Homework-4\Homework4\ScreenStuff\bin\Debug\ScreenStuff.dll
+C:\Users\Raj\Documents\Homework-4\Homework4\ScreenStuff\bin\Debug\ScreenStuff.pdb
+C:\Users\Raj\Documents\Homework-4\Homework4\ScreenStuff\bin\Debug\Cosmos.Common.dll
+C:\Users\Raj\Documents\Homework-4\Homework4\ScreenStuff\bin\Debug\Cosmos.Debug.Kernel.dll
+C:\Users\Raj\Documents\Homework-4\Homework4\ScreenStuff\bin\Debug\Cosmos.HAL.dll
+C:\Users\Raj\Documents\Homework-4\Homework4\ScreenStuff\bin\Debug\Cosmos.System.dll
+C:\Users\Raj\Documents\Homework-4\Homework4\ScreenStuff\bin\Debug\Cosmos.Core.dll
+C:\Users\Raj\Documents\Homework-4\Homework4\ScreenStuff\bin\Debug\Cosmos.Common.pdb
+C:\Users\Raj\Documents\Homework-4\Homework4\ScreenStuff\bin\Debug\Cosmos.HAL.pdb
+C:\Users\Raj\Documents\Homework-4\Homework4\ScreenStuff\bin\Debug\Cosmos.System.pdb
+C:\Users\Raj\Documents\Homework-4\Homework4\ScreenStuff\bin\Debug\Cosmos.Debug.Kernel.pdb
+C:\Users\Raj\Documents\Homework-4\Homework4\ScreenStuff\bin\Debug\Cosmos.Core.pdb
+C:\Users\Raj\Documents\Homework-4\Homework4\ScreenStuff\obj\Debug\ScreenStuff.csprojResolveAssemblyReference.cache
+C:\Users\Raj\Documents\Homework-4\Homework4\ScreenStuff\obj\Debug\ScreenStuff.dll
+C:\Users\Raj\Documents\Homework-4\Homework4\ScreenStuff\obj\Debug\ScreenStuff.pdb
